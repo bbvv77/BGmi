@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'lvl'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E8469A89D2243CF9ED6C238DB45A43B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_96A481E361D84DFCAF1E063FDB9E9C76 }}
